@@ -1,5 +1,5 @@
 {
-  "name": "@Sigma/SoeAuth",
+  "name": "@Sigma/auth",
   "scripts": {
     "start": "webpack serve",
     "start:standalone": "webpack serve --env standalone",

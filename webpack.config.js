@@ -4,7 +4,7 @@ const singleSpaDefaults = require("webpack-config-single-spa");
 module.exports = (webpackConfigEnv, argv) => {
   const defaultConfig = singleSpaDefaults({
     orgName: "Sigma",
-    projectName: "SoeAuth",
+    projectName: "auth",
     webpackConfigEnv,
     argv,
   });
